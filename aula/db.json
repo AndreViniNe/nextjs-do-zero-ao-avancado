@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "titulo": "Como Aprender React.js",
+          "capa": "https://wallpaperbat.com/img/313491-javascript-wallpaper-top-free-javascript-background.png",
+          "subtitulo": "Dicas e truques para dominar a biblioteca mais popular de JavaScript",
+          "categoria": "Desenvolvimento"
+        },
+        {
+          "id": 2,
+          "titulo": "Introdução ao Node.js",
+          "capa": "https://wallpaperbat.com/img/641215-react-js-wallpaper-top-free-react-js-background.jpg",
+          "subtitulo": "Tudo o que você precisa saber para começar com o Node.js",
+          "categoria": "Backend"
+        },
+        {
+          "id": 3,
+          "titulo": "Dicas de Design para Iniciantes",
+          "capa": "https://wallpaperbat.com/img/1491775-wallpaper-decoration-ideas-house-garden.jpg",
+          "subtitulo": "Como criar designs eficientes e atraentes para suas aplicações",
+          "categoria": "Design"
+        },
+        {
+          "id": 4,
+          "titulo": "Python para Data Science",
+          "capa": "https://wallpaperbat.com/img/12455891-python-wallpaper.jpg",
+          "subtitulo": "Aprenda como usar Python para análise de dados e aprendizado de máquina",
+          "categoria": "Data Science"
+        },
+        {
+          "id": 5,
+          "titulo": "Melhores Práticas de SEO",
+          "capa": "https://wallpaperbat.com/img/138389876-seoul-picture-download-free.jpg",
+          "subtitulo": "Otimize seu site para os motores de busca e aumente a visibilidade online",
+          "categoria": "Marketing Digital"
+        }
+      ]      
+}
