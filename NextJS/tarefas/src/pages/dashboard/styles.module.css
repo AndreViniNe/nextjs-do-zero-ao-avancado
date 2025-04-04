@@ -1,0 +1,51 @@
+.container {
+ width: 100%;
+}
+
+.content {
+    background-color: #0f0f0f;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contentForm {
+    max-width: 1024px;
+    width: 100%;
+    padding: 0 18px;
+    padding-bottom: 28px;
+    margin-top: 58px;
+}
+.contentTitle {
+    color: #FFF;
+    margin-bottom: 7px;
+}
+
+.checkboxArea label {
+    margin-left: 8px;
+    color: #FFF;
+}
+
+.checkbox {
+    width: 18px;
+    height: 18px;
+    margin: 14px 0;
+}
+
+.button {
+    width: 100%;
+    border: 0;
+    border-radius: 4px;
+    color: #FFF;
+    background-color: #3183FF;
+    padding: 12px 0;
+    font-size: 18px;
+    transition: all 0.2s;
+}
+
+.button:hover {
+    transform: scale(1.01);
+    background-color: #3173FF;
+    font-weight: bold;
+}
